@@ -13,7 +13,7 @@
 
   <groupId>com.efficientcapital.simple-greeter-one</groupId>
   <artifactId>parent</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
 
   <name>Efficient Capital - simple-greeter-one gRPC parent POM</name>
   <packaging>pom</packaging>
