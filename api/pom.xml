@@ -6,16 +6,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.efficientcapital.REPLACE_ME_APP_NAME</groupId>
+    <groupId>com.efficientcapital.simple-greeter-one</groupId>
     <artifactId>parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
 
-  <groupId>com.efficientcapital.REPLACE_ME_APP_NAME</groupId>
+  <groupId>com.efficientcapital.simple-greeter-one</groupId>
   <artifactId>api</artifactId>
   <version>${parent.version}</version>
 
-  <name>Efficient Capital - REPLACE_ME_APP_NAME gRPC API</name>
+  <name>Efficient Capital - simple-greeter-one gRPC API</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

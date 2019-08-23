@@ -11,11 +11,11 @@
     <version>0.0.1</version>
   </parent>
 
-  <groupId>com.efficientcapital.REPLACE_ME_APP_NAME</groupId>
+  <groupId>com.efficientcapital.simple-greeter-one</groupId>
   <artifactId>parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>Efficient Capital - REPLACE_ME_APP_NAME gRPC parent POM</name>
+  <name>Efficient Capital - simple-greeter-one gRPC parent POM</name>
   <packaging>pom</packaging>
 
   <modules>
