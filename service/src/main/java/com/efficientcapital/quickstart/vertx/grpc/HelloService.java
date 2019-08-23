@@ -14,7 +14,7 @@ public class HelloService extends GreeterGrpc.GreeterVertxImplBase {
   public void sayHello(HelloRequest request, Future<HelloReply> response) {
     response.complete(
       HelloReply.newBuilder()
-        .setMessage(request.getName().isBlank() ? "Hello, World" : "Hello, " + request.getName())
+        .setMessage(request.getName().isBlank() ? "Hello, World" : "Hello, " + request.getName() + " from greeter one")
         .build());
   }
 }
